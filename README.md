@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Sentiment Detection with Flask
 ==============================
 
@@ -55,3 +56,6 @@ Project Organization
 --------
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+=======
+# Sentiment-Detection-with-Flask
+>>>>>>> ebd655e1d6f4c585c7f386b3a03259de5406e05d
